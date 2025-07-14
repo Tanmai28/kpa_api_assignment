@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # KPA API Assignment – [Your Name]
 ---
 
@@ -253,3 +254,7 @@ Copy and fill in your details:
 - No JWT or session management implemented
 - No advanced validation or error handling beyond basic checks
 
+=======
+# kpa_api_assignment
+Backend assignment: FastAPI implementation of two APIs from the KPA_form data collection.
+>>>>>>> 63d412e45e9a7b45db4a408f41ef1099d5c9080f
